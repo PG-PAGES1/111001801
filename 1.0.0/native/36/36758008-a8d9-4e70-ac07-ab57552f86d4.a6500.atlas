@@ -1,0 +1,83 @@
+
+bookRunFX.png
+size: 558,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bookFX/book_flip_a_00
+  rotate: false
+  xy: 407, 110
+  size: 89, 126
+  orig: 207, 171
+  offset: 108, 6
+  index: -1
+bookFX/book_flip_a_01
+  rotate: false
+  xy: 315, 84
+  size: 90, 149
+  orig: 207, 171
+  offset: 108, 6
+  index: -1
+bookFX/book_flip_a_02
+  rotate: false
+  xy: 324, 238
+  size: 139, 161
+  orig: 207, 171
+  offset: 58, 5
+  index: -1
+bookFX/book_flip_a_03
+  rotate: false
+  xy: 2, 235
+  size: 166, 160
+  orig: 207, 171
+  offset: 31, 6
+  index: -1
+bookFX/book_flip_a_04
+  rotate: false
+  xy: 2, 397
+  size: 169, 159
+  orig: 207, 171
+  offset: 27, 6
+  index: -1
+bookFX/book_flip_a_05
+  rotate: true
+  xy: 2, 63
+  size: 170, 155
+  orig: 207, 171
+  offset: 26, 6
+  index: -1
+bookFX/book_flip_a_06
+  rotate: true
+  xy: 159, 64
+  size: 169, 154
+  orig: 207, 171
+  offset: 26, 7
+  index: -1
+bookFX/book_flip_a_07
+  rotate: false
+  xy: 173, 401
+  size: 171, 155
+  orig: 207, 171
+  offset: 24, 7
+  index: -1
+bookFX/book_flip_a_08
+  rotate: false
+  xy: 346, 402
+  size: 171, 154
+  orig: 207, 171
+  offset: 23, 7
+  index: -1
+bookFX/book_flip_a_09
+  rotate: false
+  xy: 170, 235
+  size: 152, 160
+  orig: 207, 171
+  offset: 23, 5
+  index: -1
+bookFX/book_flip_a_10
+  rotate: false
+  xy: 465, 241
+  size: 91, 159
+  orig: 207, 171
+  offset: 23, 6
+  index: -1

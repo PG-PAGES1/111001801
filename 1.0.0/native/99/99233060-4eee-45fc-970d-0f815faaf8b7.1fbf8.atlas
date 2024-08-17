@@ -1,0 +1,244 @@
+
+gunzhou_book.png
+size: 1241,984
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mofashuxiaochuxiaoguoX/book_open_overlay_00
+  rotate: false
+  xy: 1156, 304
+  size: 72, 72
+  orig: 328, 328
+  offset: 128, 162
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_01
+  rotate: false
+  xy: 700, 458
+  size: 196, 250
+  orig: 328, 328
+  offset: 66, 68
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_02
+  rotate: false
+  xy: 478, 432
+  size: 220, 272
+  orig: 328, 328
+  offset: 54, 50
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_03
+  rotate: false
+  xy: 256, 422
+  size: 220, 276
+  orig: 328, 328
+  offset: 54, 46
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_04
+  rotate: false
+  xy: 254, 126
+  size: 248, 284
+  orig: 328, 328
+  offset: 42, 39
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_05
+  rotate: false
+  xy: 2, 126
+  size: 250, 284
+  orig: 328, 328
+  offset: 41, 39
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_06
+  rotate: false
+  xy: 2, 698
+  size: 252, 284
+  orig: 328, 328
+  offset: 38, 39
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_07
+  rotate: false
+  xy: 2, 412
+  size: 252, 284
+  orig: 328, 328
+  offset: 40, 39
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_08
+  rotate: false
+  xy: 256, 700
+  size: 220, 282
+  orig: 328, 328
+  offset: 54, 41
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_09
+  rotate: false
+  xy: 478, 706
+  size: 218, 276
+  orig: 328, 328
+  offset: 55, 46
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_10
+  rotate: false
+  xy: 698, 710
+  size: 218, 272
+  orig: 328, 328
+  offset: 55, 49
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_11
+  rotate: false
+  xy: 504, 166
+  size: 210, 264
+  orig: 328, 328
+  offset: 59, 57
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_12
+  rotate: false
+  xy: 716, 210
+  size: 190, 246
+  orig: 328, 328
+  offset: 69, 71
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_13
+  rotate: true
+  xy: 1002, 378
+  size: 164, 228
+  orig: 328, 328
+  offset: 82, 68
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_14
+  rotate: true
+  xy: 1057, 816
+  size: 166, 182
+  orig: 328, 328
+  offset: 81, 64
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_15
+  rotate: true
+  xy: 1047, 658
+  size: 156, 188
+  orig: 328, 328
+  offset: 80, 62
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_16
+  rotate: true
+  xy: 523, 2
+  size: 162, 196
+  orig: 328, 328
+  offset: 77, 57
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_17
+  rotate: false
+  xy: 891, 8
+  size: 164, 200
+  orig: 328, 328
+  offset: 77, 55
+  index: -1
+mofashuxiaochuxiaoguoX/book_open_overlay_18
+  rotate: false
+  xy: 721, 2
+  size: 168, 206
+  orig: 328, 328
+  offset: 75, 52
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_01
+  rotate: false
+  xy: 898, 459
+  size: 102, 83
+  orig: 168, 157
+  offset: 37, 40
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_02
+  rotate: false
+  xy: 2, 3
+  size: 132, 121
+  orig: 168, 157
+  offset: 23, 24
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_03
+  rotate: true
+  xy: 918, 838
+  size: 144, 137
+  orig: 168, 157
+  offset: 15, 12
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_04
+  rotate: false
+  xy: 1057, 65
+  size: 156, 149
+  orig: 168, 157
+  offset: 9, 6
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_05
+  rotate: true
+  xy: 999, 216
+  size: 160, 155
+  orig: 168, 157
+  offset: 7, 2
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_06
+  rotate: true
+  xy: 898, 544
+  size: 150, 141
+  orig: 168, 157
+  offset: 12, 10
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_07
+  rotate: true
+  xy: 918, 696
+  size: 140, 127
+  orig: 168, 157
+  offset: 17, 16
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_08
+  rotate: true
+  xy: 136, 6
+  size: 118, 107
+  orig: 168, 157
+  offset: 27, 30
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_09
+  rotate: true
+  xy: 1041, 550
+  size: 106, 103
+  orig: 168, 157
+  offset: 33, 36
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_10
+  rotate: false
+  xy: 1146, 553
+  size: 88, 103
+  orig: 168, 157
+  offset: 40, 38
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_11
+  rotate: false
+  xy: 435, 17
+  size: 86, 107
+  orig: 168, 157
+  offset: 41, 36
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_12
+  rotate: false
+  xy: 341, 11
+  size: 92, 113
+  orig: 168, 157
+  offset: 38, 32
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_13
+  rotate: false
+  xy: 245, 9
+  size: 94, 115
+  orig: 168, 157
+  offset: 37, 30
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_14
+  rotate: true
+  xy: 908, 261
+  size: 96, 89
+  orig: 168, 157
+  offset: 36, 52
+  index: -1
+mofashuzhonjiangxiaoguo/book_burn_15
+  rotate: true
+  xy: 908, 359
+  size: 98, 89
+  orig: 168, 157
+  offset: 35, 53
+  index: -1

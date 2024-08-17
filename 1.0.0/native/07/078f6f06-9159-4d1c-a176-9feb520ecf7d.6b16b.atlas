@@ -1,0 +1,188 @@
+
+spinBtn.jpg
+size: 695,695
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_bgFX/button_idle_highlight_12fps_00
+  rotate: false
+  xy: 331, 310
+  size: 139, 117
+  orig: 147, 147
+  offset: 5, 2
+  index: -1
+fx_bgFX/button_idle_highlight_12fps_01
+  rotate: false
+  xy: 489, 566
+  size: 137, 127
+  orig: 147, 147
+  offset: 6, 6
+  index: -1
+fx_bgFX/button_idle_highlight_12fps_02
+  rotate: false
+  xy: 356, 429
+  size: 135, 127
+  orig: 147, 147
+  offset: 7, 10
+  index: -1
+fx_bgFX/button_idle_highlight_12fps_03
+  rotate: false
+  xy: 2, 163
+  size: 137, 133
+  orig: 147, 147
+  offset: 5, 2
+  index: -1
+fx_bgFX/button_idle_highlight_12fps_04
+  rotate: false
+  xy: 352, 558
+  size: 135, 135
+  orig: 147, 147
+  offset: 7, 1
+  index: -1
+fx_bgFX/button_idle_highlight_12fps_05
+  rotate: false
+  xy: 213, 558
+  size: 137, 135
+  orig: 147, 147
+  offset: 7, 1
+  index: -1
+fx_bgFX/button_idle_highlight_12fps_06
+  rotate: false
+  xy: 213, 433
+  size: 141, 123
+  orig: 147, 147
+  offset: 6, 5
+  index: -1
+fx_bgFX/button_idle_highlight_12fps_07
+  rotate: true
+  xy: 2, 20
+  size: 141, 127
+  orig: 147, 147
+  offset: 6, 4
+  index: -1
+fx_bgFX/button_idle_highlight_12fps_08
+  rotate: false
+  xy: 188, 310
+  size: 141, 121
+  orig: 147, 147
+  offset: 6, 3
+  index: -1
+fx_bgFX/button_idle_highlight_12fps_09
+  rotate: true
+  xy: 493, 423
+  size: 141, 123
+  orig: 147, 147
+  offset: 6, 2
+  index: -1
+fx_bgFX/button_idle_highlight_12fps_10
+  rotate: false
+  xy: 472, 308
+  size: 137, 113
+  orig: 147, 147
+  offset: 7, 6
+  index: -1
+fx_bgFX/button_idle_highlight_12fps_11
+  rotate: true
+  xy: 141, 159
+  size: 137, 119
+  orig: 147, 147
+  offset: 6, 2
+  index: -1
+fx_cube/stop_button_000
+  rotate: false
+  xy: 262, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_cube/stop_button_001
+  rotate: false
+  xy: 364, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_cube/stop_button_002
+  rotate: false
+  xy: 466, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_cube/stop_button_003
+  rotate: false
+  xy: 262, 106
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_cube/stop_button_004
+  rotate: false
+  xy: 364, 106
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_cube/stop_button_005
+  rotate: false
+  xy: 466, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_cube/stop_button_006
+  rotate: false
+  xy: 568, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_cube/stop_button_007
+  rotate: false
+  xy: 568, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_cube/stop_button_008
+  rotate: false
+  xy: 233, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_cube/stop_button_009
+  rotate: false
+  xy: 335, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_cube/stop_button_010
+  rotate: false
+  xy: 437, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_cube/stop_button_011
+  rotate: false
+  xy: 131, 57
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fx_glowRing
+  rotate: false
+  xy: 2, 298
+  size: 184, 184
+  orig: 192, 192
+  offset: 4, 4
+  index: -1
+fx_ring
+  rotate: false
+  xy: 2, 484
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1

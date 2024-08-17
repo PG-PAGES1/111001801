@@ -1,0 +1,335 @@
+
+bonusGame_bubble.png
+size: 1222,1222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble
+  rotate: false
+  xy: 703, 474
+  size: 134, 132
+  orig: 137, 136
+  offset: 1, 2
+  index: -1
+bubble/bonus_bubble_appear_00
+  rotate: true
+  xy: 1198, 592
+  size: 65, 22
+  orig: 140, 294
+  offset: 36, 3
+  index: -1
+bubble/bonus_bubble_appear_01
+  rotate: true
+  xy: 1066, 48
+  size: 67, 38
+  orig: 140, 294
+  offset: 36, 4
+  index: -1
+bubble/bonus_bubble_appear_02
+  rotate: false
+  xy: 1131, 355
+  size: 67, 52
+  orig: 140, 294
+  offset: 35, 5
+  index: -1
+bubble/bonus_bubble_appear_03
+  rotate: true
+  xy: 976, 50
+  size: 65, 88
+  orig: 140, 294
+  offset: 38, 6
+  index: -1
+bubble/bonus_bubble_appear_04
+  rotate: false
+  xy: 1131, 409
+  size: 67, 110
+  orig: 140, 294
+  offset: 37, 7
+  index: -1
+bubble/bonus_bubble_appear_05
+  rotate: false
+  xy: 1129, 521
+  size: 67, 136
+  orig: 140, 294
+  offset: 36, 7
+  index: -1
+bubble/bonus_bubble_appear_06
+  rotate: false
+  xy: 1131, 795
+  size: 72, 201
+  orig: 140, 294
+  offset: 36, 8
+  index: -1
+bubble/bonus_bubble_appear_07
+  rotate: false
+  xy: 1140, 998
+  size: 78, 222
+  orig: 140, 294
+  offset: 32, 8
+  index: -1
+bubble/bonus_bubble_appear_08
+  rotate: true
+  xy: 319, 214
+  size: 82, 250
+  orig: 140, 294
+  offset: 27, 9
+  index: -1
+bubble/bonus_bubble_appear_09
+  rotate: false
+  xy: 817, 614
+  size: 102, 260
+  orig: 140, 294
+  offset: 21, 8
+  index: -1
+bubble/bonus_bubble_appear_10
+  rotate: false
+  xy: 703, 608
+  size: 112, 266
+  orig: 140, 294
+  offset: 17, 8
+  index: -1
+bubble/bonus_bubble_appear_11
+  rotate: false
+  xy: 586, 611
+  size: 115, 274
+  orig: 140, 294
+  offset: 14, 9
+  index: -1
+bubble/bonus_bubble_appear_12
+  rotate: true
+  xy: 706, 876
+  size: 133, 222
+  orig: 140, 294
+  offset: 7, 71
+  index: -1
+bubble/bonus_bubble_appear_13
+  rotate: false
+  xy: 319, 493
+  size: 18, 17
+  orig: 140, 294
+  offset: 62, 148
+  index: -1
+bubble/bonus_bubble_appear_14
+  rotate: false
+  xy: 988, 278
+  size: 13, 14
+  orig: 140, 294
+  offset: 64, 153
+  index: -1
+bubble/bonus_bubble_appear_15
+  rotate: false
+  xy: 921, 865
+  size: 7, 9
+  orig: 140, 294
+  offset: 68, 160
+  index: -1
+coin/Coin_00
+  rotate: false
+  xy: 561, 48
+  size: 136, 136
+  orig: 150, 150
+  offset: 7, 7
+  index: -1
+coin/Coin_01
+  rotate: false
+  xy: 699, 47
+  size: 137, 137
+  orig: 150, 150
+  offset: 7, 7
+  index: -1
+coin/Coin_02
+  rotate: true
+  xy: 1003, 345
+  size: 136, 126
+  orig: 150, 150
+  offset: 7, 14
+  index: -1
+coin/Coin_03
+  rotate: true
+  xy: 1107, 659
+  size: 134, 112
+  orig: 150, 150
+  offset: 8, 21
+  index: -1
+coin/Coin_04
+  rotate: false
+  xy: 1003, 245
+  size: 132, 98
+  orig: 150, 150
+  offset: 9, 26
+  index: -1
+coin/Coin_05
+  rotate: false
+  xy: 697, 186
+  size: 133, 105
+  orig: 150, 150
+  offset: 9, 22
+  index: -1
+coin/Coin_06
+  rotate: false
+  xy: 850, 166
+  size: 136, 126
+  orig: 150, 150
+  offset: 8, 11
+  index: -1
+coin/Coin_07
+  rotate: false
+  xy: 838, 29
+  size: 136, 135
+  orig: 150, 150
+  offset: 7, 7
+  index: -1
+fx_boom/bubble_burst_back_00
+  rotate: false
+  xy: 839, 475
+  size: 149, 137
+  orig: 353, 353
+  offset: 103, 106
+  index: -1
+fx_boom/bubble_burst_back_01
+  rotate: true
+  xy: 990, 483
+  size: 151, 137
+  orig: 353, 353
+  offset: 101, 106
+  index: -1
+fx_boom/bubble_burst_back_02
+  rotate: true
+  xy: 532, 305
+  size: 177, 163
+  orig: 353, 353
+  offset: 81, 100
+  index: -1
+fx_boom/bubble_burst_back_03
+  rotate: true
+  xy: 185, 14
+  size: 195, 179
+  orig: 353, 353
+  offset: 75, 88
+  index: -1
+fx_boom/bubble_burst_back_04
+  rotate: false
+  xy: 319, 298
+  size: 211, 189
+  orig: 353, 353
+  offset: 67, 81
+  index: -1
+fx_boom/bubble_burst_back_05
+  rotate: false
+  xy: 917, 1023
+  size: 221, 197
+  orig: 353, 353
+  offset: 62, 76
+  index: -1
+fx_boom/bubble_burst_front_00
+  rotate: true
+  xy: 697, 293
+  size: 179, 151
+  orig: 353, 353
+  offset: 84, 100
+  index: -1
+fx_boom/bubble_burst_front_01
+  rotate: true
+  xy: 850, 294
+  size: 179, 151
+  orig: 353, 353
+  offset: 84, 99
+  index: -1
+fx_boom/bubble_burst_front_02
+  rotate: false
+  xy: 366, 49
+  size: 193, 163
+  orig: 353, 353
+  offset: 78, 93
+  index: -1
+fx_boom/bubble_burst_front_03
+  rotate: true
+  xy: 2, 2
+  size: 207, 181
+  orig: 353, 353
+  offset: 70, 83
+  index: -1
+fx_boom/bubble_burst_front_04
+  rotate: false
+  xy: 357, 489
+  size: 217, 193
+  orig: 353, 353
+  offset: 66, 77
+  index: -1
+fx_boom/bubble_burst_front_05
+  rotate: false
+  xy: 357, 684
+  size: 227, 201
+  orig: 353, 353
+  offset: 61, 73
+  index: -1
+fx_boom/bubble_charge_00
+  rotate: false
+  xy: 2, 867
+  size: 353, 353
+  orig: 353, 353
+  offset: 0, 0
+  index: -1
+fx_boom/bubble_charge_01
+  rotate: false
+  xy: 2, 512
+  size: 353, 353
+  orig: 353, 353
+  offset: 0, 0
+  index: -1
+fx_boom/bubble_charge_02
+  rotate: false
+  xy: 357, 887
+  size: 347, 333
+  orig: 353, 353
+  offset: 1, 16
+  index: -1
+fx_boom/bubble_charge_03
+  rotate: false
+  xy: 2, 211
+  size: 315, 299
+  orig: 353, 353
+  offset: 18, 34
+  index: -1
+fx_boom/bubble_charge_04
+  rotate: false
+  xy: 930, 822
+  size: 199, 199
+  orig: 353, 353
+  offset: 64, 84
+  index: -1
+fx_bubble
+  rotate: false
+  xy: 988, 117
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+fx_glowRing
+  rotate: false
+  xy: 921, 636
+  size: 184, 184
+  orig: 192, 192
+  offset: 4, 4
+  index: -1
+fx_ray
+  rotate: false
+  xy: 571, 186
+  size: 124, 117
+  orig: 124, 117
+  offset: 0, 0
+  index: -1
+fx_ring
+  rotate: false
+  xy: 706, 1011
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+fx_shine
+  rotate: false
+  xy: 576, 484
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

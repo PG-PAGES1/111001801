@@ -1,0 +1,118 @@
+
+iconWinFX.png
+size: 674,674
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bookIcon_blue
+  rotate: false
+  xy: 179, 8
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+bookIcon_gray
+  rotate: true
+  xy: 347, 91
+  size: 95, 72
+  orig: 95, 72
+  offset: 0, 0
+  index: -1
+bookIcon_green
+  rotate: false
+  xy: 109, 5
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+bookIcon_purple
+  rotate: true
+  xy: 269, 79
+  size: 107, 76
+  orig: 107, 76
+  offset: 0, 0
+  index: -1
+bookIcon_red
+  rotate: false
+  xy: 279, 2
+  size: 96, 75
+  orig: 96, 75
+  offset: 0, 0
+  index: -1
+bookIcon_special
+  rotate: false
+  xy: 377, 8
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+fx_bookGlow
+  rotate: false
+  xy: 2, 365
+  size: 363, 307
+  orig: 363, 307
+  offset: 0, 0
+  index: -1
+fx_bookIcon_blue
+  rotate: false
+  xy: 2, 3
+  size: 105, 73
+  orig: 105, 73
+  offset: 0, 0
+  index: -1
+fx_bookIcon_gray
+  rotate: true
+  xy: 86, 83
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+fx_bookIcon_green
+  rotate: false
+  xy: 361, 256
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+fx_bookIcon_purple
+  rotate: true
+  xy: 184, 74
+  size: 112, 83
+  orig: 112, 83
+  offset: 0, 0
+  index: -1
+fx_bookIcon_red
+  rotate: true
+  xy: 2, 78
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+fx_glow
+  rotate: false
+  xy: 184, 188
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_ringGlow
+  rotate: false
+  xy: 361, 204
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fx_shineLine
+  rotate: true
+  xy: 367, 342
+  size: 330, 140
+  orig: 330, 140
+  offset: 0, 0
+  index: -1
+magic_circle-ui_magiccircle_lv3_circle
+  rotate: false
+  xy: 2, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

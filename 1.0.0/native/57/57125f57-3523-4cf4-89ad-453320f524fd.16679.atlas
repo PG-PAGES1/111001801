@@ -1,0 +1,258 @@
+
+iconSpecialWin_bgFX.png
+size: 907,907
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bookIcon_frog
+  rotate: true
+  xy: 214, 25
+  size: 96, 80
+  orig: 96, 80
+  offset: 0, 0
+  index: -1
+bookIcon_mushroom
+  rotate: true
+  xy: 824, 140
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+bookIcon_potionBlue
+  rotate: false
+  xy: 317, 311
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+bookIcon_potionGreen
+  rotate: true
+  xy: 707, 140
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+bookIcon_spider
+  rotate: true
+  xy: 296, 2
+  size: 121, 95
+  orig: 121, 95
+  offset: 0, 0
+  index: -1
+fx_bookGlow
+  rotate: false
+  xy: 542, 598
+  size: 363, 307
+  orig: 363, 307
+  offset: 0, 0
+  index: -1
+fx_fog/symbol_smoke_back_00
+  rotate: false
+  xy: 546, 7
+  size: 33, 61
+  orig: 193, 350
+  offset: 80, 50
+  index: -1
+fx_fog/symbol_smoke_back_01
+  rotate: true
+  xy: 633, 28
+  size: 41, 72
+  orig: 193, 350
+  offset: 76, 50
+  index: -1
+fx_fog/symbol_smoke_back_02
+  rotate: true
+  xy: 824, 236
+  size: 49, 78
+  orig: 193, 350
+  offset: 72, 50
+  index: -1
+fx_fog/symbol_smoke_back_03
+  rotate: false
+  xy: 70, 13
+  size: 66, 104
+  orig: 193, 350
+  offset: 64, 50
+  index: -1
+fx_fog/symbol_smoke_back_04
+  rotate: false
+  xy: 138, 3
+  size: 74, 117
+  orig: 193, 350
+  offset: 59, 50
+  index: -1
+fx_fog/symbol_smoke_back_05
+  rotate: true
+  xy: 692, 214
+  size: 71, 130
+  orig: 193, 350
+  offset: 62, 50
+  index: -1
+fx_fog/symbol_smoke_back_06
+  rotate: true
+  xy: 393, 320
+  size: 74, 146
+  orig: 193, 350
+  offset: 61, 50
+  index: -1
+fx_fog/symbol_smoke_back_07
+  rotate: true
+  xy: 540, 214
+  size: 75, 150
+  orig: 193, 350
+  offset: 61, 50
+  index: -1
+fx_fog/symbol_smoke_back_08
+  rotate: false
+  xy: 389, 132
+  size: 75, 153
+  orig: 193, 350
+  offset: 61, 50
+  index: -1
+fx_fog/symbol_smoke_back_09
+  rotate: false
+  xy: 234, 125
+  size: 71, 160
+  orig: 193, 350
+  offset: 64, 50
+  index: -1
+fx_fog/symbol_smoke_back_10
+  rotate: false
+  xy: 78, 122
+  size: 72, 163
+  orig: 193, 350
+  offset: 65, 50
+  index: -1
+fx_fog/symbol_smoke_back_11
+  rotate: false
+  xy: 2, 119
+  size: 74, 166
+  orig: 193, 350
+  offset: 63, 50
+  index: -1
+fx_fog/symbol_smoke_back_12
+  rotate: true
+  xy: 711, 287
+  size: 83, 166
+  orig: 193, 350
+  offset: 62, 50
+  index: -1
+fx_fog/symbol_smoke_back_13
+  rotate: true
+  xy: 542, 371
+  size: 83, 167
+  orig: 193, 350
+  offset: 62, 50
+  index: -1
+fx_fog/symbol_smoke_back_14
+  rotate: true
+  xy: 711, 372
+  size: 82, 167
+  orig: 193, 350
+  offset: 62, 50
+  index: -1
+fx_fog/symbol_smoke_back_15
+  rotate: true
+  xy: 2, 287
+  size: 82, 164
+  orig: 193, 350
+  offset: 62, 49
+  index: -1
+fx_fog/symbol_smoke_back_16
+  rotate: false
+  xy: 152, 123
+  size: 80, 162
+  orig: 193, 350
+  offset: 63, 49
+  index: -1
+fx_fog/symbol_smoke_back_17
+  rotate: false
+  xy: 307, 126
+  size: 80, 159
+  orig: 193, 350
+  offset: 62, 49
+  index: -1
+fx_fog/symbol_smoke_back_18
+  rotate: true
+  xy: 541, 291
+  size: 78, 152
+  orig: 193, 350
+  offset: 61, 49
+  index: -1
+fx_fog/symbol_smoke_back_19
+  rotate: false
+  xy: 466, 29
+  size: 78, 149
+  orig: 193, 350
+  offset: 59, 49
+  index: -1
+fx_fog/symbol_smoke_back_20
+  rotate: true
+  xy: 168, 288
+  size: 81, 147
+  orig: 193, 350
+  offset: 56, 48
+  index: -1
+fx_fog/symbol_smoke_back_21
+  rotate: false
+  xy: 546, 70
+  size: 80, 142
+  orig: 193, 350
+  offset: 54, 48
+  index: -1
+fx_fog/symbol_smoke_back_22
+  rotate: false
+  xy: 628, 71
+  size: 77, 141
+  orig: 193, 350
+  offset: 55, 47
+  index: -1
+fx_fog/symbol_smoke_back_23
+  rotate: false
+  xy: 466, 180
+  size: 72, 138
+  orig: 193, 350
+  offset: 55, 47
+  index: -1
+fx_fog/symbol_smoke_back_24
+  rotate: false
+  xy: 707, 7
+  size: 70, 131
+  orig: 193, 350
+  offset: 57, 46
+  index: -1
+fx_fog/symbol_smoke_back_25
+  rotate: false
+  xy: 393, 3
+  size: 66, 127
+  orig: 193, 350
+  offset: 61, 46
+  index: -1
+fx_fog/symbol_smoke_back_26
+  rotate: false
+  xy: 2, 8
+  size: 66, 109
+  orig: 193, 350
+  offset: 62, 46
+  index: -1
+fx_ringGlow
+  rotate: false
+  xy: 581, 18
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fx_shine
+  rotate: false
+  xy: 2, 396
+  size: 538, 509
+  orig: 538, 509
+  offset: 0, 0
+  index: -1
+fx_shineLine
+  rotate: false
+  xy: 542, 456
+  size: 330, 140
+  orig: 330, 140
+  offset: 0, 0
+  index: -1

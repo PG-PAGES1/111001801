@@ -1,0 +1,209 @@
+
+potBoomFX.png
+size: 1997,1997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_potBoom/mg_cauldron_explosion_00
+  rotate: false
+  xy: 2, 14
+  size: 182, 112
+  orig: 486, 621
+  offset: 158, 265
+  index: -1
+fx_potBoom/mg_cauldron_explosion_01
+  rotate: true
+  xy: 777, 533
+  size: 220, 188
+  orig: 486, 621
+  offset: 127, 226
+  index: -1
+fx_potBoom/mg_cauldron_explosion_02
+  rotate: true
+  xy: 978, 1180
+  size: 343, 402
+  orig: 486, 621
+  offset: 71, 109
+  index: -1
+fx_potBoom/mg_cauldron_explosion_03
+  rotate: false
+  xy: 490, 755
+  size: 483, 618
+  orig: 486, 621
+  offset: 1, 0
+  index: -1
+fx_potBoom/mg_cauldron_explosion_04
+  rotate: false
+  xy: 490, 1375
+  size: 486, 620
+  orig: 486, 621
+  offset: 0, 0
+  index: -1
+fx_potBoom/mg_cauldron_explosion_05
+  rotate: false
+  xy: 2, 1374
+  size: 486, 621
+  orig: 486, 621
+  offset: 0, 0
+  index: -1
+fx_potBoom/mg_cauldron_explosion_06
+  rotate: false
+  xy: 2, 751
+  size: 486, 621
+  orig: 486, 621
+  offset: 0, 0
+  index: -1
+fx_potBoom/mg_cauldron_explosion_07
+  rotate: false
+  xy: 2, 128
+  size: 483, 621
+  orig: 486, 621
+  offset: 1, 0
+  index: -1
+fx_potBoom/mg_cauldron_explosion_08
+  rotate: true
+  xy: 978, 1525
+  size: 470, 621
+  orig: 486, 621
+  offset: 8, 0
+  index: -1
+fx_potBoom/mg_cauldron_explosion_09
+  rotate: false
+  xy: 1601, 1374
+  size: 371, 621
+  orig: 486, 621
+  offset: 46, 0
+  index: -1
+fx_potBoom/mg_cauldron_explosion_10
+  rotate: false
+  xy: 975, 803
+  size: 321, 375
+  orig: 486, 621
+  offset: 77, 238
+  index: -1
+fx_potBoom/mg_cauldron_explosion_11
+  rotate: false
+  xy: 1298, 814
+  size: 332, 364
+  orig: 486, 621
+  offset: 74, 239
+  index: -1
+fx_potBoom/mg_cauldron_explosion_12
+  rotate: false
+  xy: 1632, 1029
+  size: 300, 343
+  orig: 486, 621
+  offset: 76, 247
+  index: -1
+fx_potBoom/mg_cauldron_explosion_13
+  rotate: false
+  xy: 1632, 693
+  size: 301, 334
+  orig: 486, 621
+  offset: 75, 255
+  index: -1
+fx_potBoom/mg_cauldron_explosion_14
+  rotate: true
+  xy: 975, 513
+  size: 288, 323
+  orig: 486, 621
+  offset: 85, 259
+  index: -1
+fx_potBoom/mg_cauldron_explosion_15
+  rotate: true
+  xy: 1300, 533
+  size: 279, 319
+  orig: 486, 621
+  offset: 94, 259
+  index: -1
+fx_potBoom/mg_cauldron_explosion_16
+  rotate: true
+  xy: 1621, 412
+  size: 279, 317
+  orig: 486, 621
+  offset: 94, 261
+  index: -1
+fx_potBoom/mg_cauldron_explosion_17
+  rotate: true
+  xy: 1300, 255
+  size: 276, 295
+  orig: 486, 621
+  offset: 98, 267
+  index: -1
+fx_potBoom/mg_cauldron_explosion_18
+  rotate: true
+  xy: 1597, 144
+  size: 266, 286
+  orig: 486, 621
+  offset: 108, 272
+  index: -1
+fx_potBoom/mg_cauldron_explosion_19
+  rotate: false
+  xy: 751, 208
+  size: 259, 284
+  orig: 486, 621
+  offset: 108, 274
+  index: -1
+fx_potBoom/mg_cauldron_explosion_20
+  rotate: true
+  xy: 490, 494
+  size: 259, 285
+  orig: 486, 621
+  offset: 108, 274
+  index: -1
+fx_potBoom/mg_cauldron_explosion_21
+  rotate: false
+  xy: 487, 207
+  size: 262, 285
+  orig: 486, 621
+  offset: 106, 275
+  index: -1
+fx_potBoom/mg_cauldron_explosion_22
+  rotate: false
+  xy: 1012, 228
+  size: 262, 283
+  orig: 486, 621
+  offset: 106, 277
+  index: -1
+fx_potBoom/mg_cauldron_explosion_23
+  rotate: true
+  xy: 1280, 24
+  size: 229, 268
+  orig: 486, 621
+  offset: 113, 293
+  index: -1
+fx_potBoom/mg_cauldron_explosion_24
+  rotate: true
+  xy: 1012, 2
+  size: 224, 266
+  orig: 486, 621
+  offset: 113, 296
+  index: -1
+fx_potBoom/mg_cauldron_explosion_25
+  rotate: true
+  xy: 1382, 1299
+  size: 224, 204
+  orig: 486, 621
+  offset: 113, 338
+  index: -1
+fx_potBoom/mg_cauldron_explosion_26
+  rotate: false
+  xy: 487, 59
+  size: 205, 146
+  orig: 486, 621
+  offset: 118, 397
+  index: -1
+fx_potBoom/mg_cauldron_explosion_27
+  rotate: true
+  xy: 1588, 1510
+  size: 13, 11
+  orig: 486, 621
+  offset: 305, 431
+  index: -1
+fx_potBoom/mg_cauldron_explosion_28
+  rotate: false
+  xy: 1621, 804
+  size: 9, 8
+  orig: 486, 621
+  offset: 307, 434
+  index: -1

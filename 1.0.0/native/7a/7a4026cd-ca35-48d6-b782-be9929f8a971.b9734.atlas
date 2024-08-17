@@ -1,0 +1,48 @@
+
+zhuanchang.png
+size: 1086,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+80fa6d08-26bc-49b4-8cd6-d49e2a365a78.62a8c
+  rotate: false
+  xy: 761, 84
+  size: 29, 29
+  orig: 32, 32
+  offset: 1, 2
+  index: -1
+gunzhouUI/transition_cloud_2_30_percent
+  rotate: false
+  xy: 412, 9
+  size: 347, 274
+  orig: 358, 282
+  offset: 5, 1
+  index: -1
+gunzhouUI/transition_cloud_3 copy
+  rotate: false
+  xy: 2, 25
+  size: 408, 258
+  orig: 608, 316
+  offset: 174, 32
+  index: -1
+gunzhouUI/transition_cloud_4
+  rotate: false
+  xy: 920, 2
+  size: 155, 120
+  orig: 160, 125
+  offset: 3, 3
+  index: -1
+gunzhouUI/transition_cloud_5
+  rotate: true
+  xy: 761, 115
+  size: 168, 157
+  orig: 177, 171
+  offset: 7, 5
+  index: -1
+tongyongshanguangxiaoguo
+  rotate: true
+  xy: 920, 124
+  size: 159, 164
+  orig: 159, 164
+  offset: 0, 0
+  index: -1

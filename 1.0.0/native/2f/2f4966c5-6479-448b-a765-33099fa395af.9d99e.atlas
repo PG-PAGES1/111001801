@@ -1,0 +1,76 @@
+
+infoBarFX.png
+size: 449,449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_border
+  rotate: false
+  xy: 2, 344
+  size: 338, 103
+  orig: 368, 140
+  offset: 15, 19
+  index: -1
+fx_border_a
+  rotate: false
+  xy: 2, 2
+  size: 276, 105
+  orig: 276, 105
+  offset: 0, 0
+  index: -1
+fx_eyeGlow
+  rotate: true
+  xy: 263, 139
+  size: 125, 69
+  orig: 125, 69
+  offset: 0, 0
+  index: -1
+fx_glow
+  rotate: false
+  xy: 2, 167
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_headGlow
+  rotate: false
+  xy: 280, 10
+  size: 160, 97
+  orig: 188, 118
+  offset: 14, 12
+  index: -1
+fx_ringGlow
+  rotate: false
+  xy: 2, 115
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fx_wingGlow
+  rotate: true
+  xy: 54, 139
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+infoBar
+  rotate: true
+  xy: 342, 109
+  size: 338, 103
+  orig: 368, 140
+  offset: 15, 19
+  index: -1
+owl
+  rotate: false
+  xy: 179, 266
+  size: 140, 76
+  orig: 140, 76
+  offset: 0, 0
+  index: -1
+owl_wing
+  rotate: true
+  xy: 179, 137
+  size: 127, 82
+  orig: 127, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+bonusGame_bubble.png
+size: 279,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin/Coin_00
+  rotate: false
+  xy: 141, 360
+  size: 136, 136
+  orig: 150, 150
+  offset: 7, 7
+  index: -1
+coin/Coin_01
+  rotate: false
+  xy: 2, 359
+  size: 137, 137
+  orig: 150, 150
+  offset: 7, 7
+  index: -1
+coin/Coin_02
+  rotate: false
+  xy: 2, 231
+  size: 136, 126
+  orig: 150, 150
+  offset: 7, 14
+  index: -1
+coin/Coin_03
+  rotate: false
+  xy: 140, 109
+  size: 134, 112
+  orig: 150, 150
+  offset: 8, 21
+  index: -1
+coin/Coin_04
+  rotate: false
+  xy: 2, 3
+  size: 132, 98
+  orig: 150, 150
+  offset: 9, 26
+  index: -1
+coin/Coin_05
+  rotate: false
+  xy: 140, 2
+  size: 133, 105
+  orig: 150, 150
+  offset: 9, 22
+  index: -1
+coin/Coin_06
+  rotate: false
+  xy: 2, 103
+  size: 136, 126
+  orig: 150, 150
+  offset: 8, 11
+  index: -1
+coin/Coin_07
+  rotate: false
+  xy: 141, 223
+  size: 136, 135
+  orig: 150, 150
+  offset: 7, 7
+  index: -1
